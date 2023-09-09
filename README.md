@@ -1,4 +1,4 @@
-# Sonic Frontiers Mod
+# OperaGX Sonic Frontiers Mod
 
 ![SonicImage](https://github.com/CesarEduL/OperaGX-Sonic-Frontiers-Mod/blob/main/Images/Sonic.png "Sonic Frontiers chill")
 
