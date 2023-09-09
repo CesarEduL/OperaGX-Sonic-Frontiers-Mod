@@ -18,7 +18,10 @@ Primero, clona o descarga el repositorio. Luego use la opción "cargar descompri
 
 ## Créditos
 
-Utilicé el OST que encontré en el canal de [RetrOfir's Music](https://www.youtube.com/watch?v=3LBW2Wwjiz8).
+Utilicé el OST que encontré en los canales de 
+- [RetrOfir's Music](https://www.youtube.com/watch?v=3LBW2Wwjiz8 "Theme of Starfall Islands LoFi Hip Hop Remix").
+- [Dream Kittu](https://www.youtube.com/watch?v=zEqyIKMyNcw "FADED HILLS Lofi Music Box Remix").
+- [Sonic the Hedgehog✔️](https://www.youtube.com/watch?v=7NZMTMPZULU "Big the Cat Lo-Fi").
 
 ## Créditos
 

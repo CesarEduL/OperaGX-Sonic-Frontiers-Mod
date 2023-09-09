@@ -12,10 +12,15 @@
   "manifest_version": 3,
 
   "mod": {
-    
     "license": "license.txt",
 
     "payload": {
+      "background_music": [
+        "music/Sonic Frontiers - Theme of Starfall Islands (LoFi Hip Hop Remix).mp3",
+        "music/FADED-HILLS-_Sonic-Forces_-_-Lofi-Music-Box-Remix【Dream-Kittu】.mp3",
+        "music/Sonic-Frontiers-OST-Big-the-Cat-Lo-Fi.mp3"
+      ],
+
       "wallpaper": {
         "dark": {
           "image": "wallpaper/SonicFrontiers.webm",
@@ -31,39 +36,32 @@
         }
       },
 
-      "theme":
-            {
-                "dark":
-                {
-                    "gx_accent":
-                    {
-                        "h": 0,
-                        "s": 100,
-                        "l": 40
-                    },
-                    "gx_secondary_base":
-                    {
-                        "h": 239,
-                        "s": 67,
-                        "l": 45
-                    }
-                },
-                "light":
-                {
-                    "gx_accent":
-                    {
-                        "h": 244,
-                        "s": 36,
-                        "l": 16
-                    },
-                    "gx_secondary_base":
-                    {
-                        "h": 51,
-                        "s": 80,
-                        "l": 88
-                    }
-                }
-            }
+      "theme": {
+        "dark": {
+          "gx_accent": {
+            "h": 0,
+            "s": 100,
+            "l": 40
+          },
+          "gx_secondary_base": {
+            "h": 239,
+            "s": 67,
+            "l": 45
+          }
+        },
+        "light": {
+          "gx_accent": {
+            "h": 244,
+            "s": 36,
+            "l": 16
+          },
+          "gx_secondary_base": {
+            "h": 51,
+            "s": 80,
+            "l": 88
+          }
+        }
+      }
     },
     "schema_version": 1
   },
