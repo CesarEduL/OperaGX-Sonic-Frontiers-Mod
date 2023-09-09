@@ -1,47 +1,72 @@
 {
-	"name": "Sonic Frontiers Wallpaper",
-	"description": "Fondo de pantalla de la franquicia &copy; Sonic the Hedgehog que cambia entre el modo claro y oscuro de opera. Respectivos créditos a todos los autores",
-    "developer":
-    {
-        "name": "CeroKashy",
-        "url": "https://github.com/CesarEduL/OperaGX-Sonic-Frontiers-Mod/tree/main"
-    },
-        "icons":
-    {
-        "16": "icons/Sonicico16.jpg",
-        "32": "icons/Sonicico32.jpg",
-        "48": "icons/Sonicico48.jpg",
-        "128": "icons/Sonicico128.jpg",
-        "512": "icons/Sonicico512.jpg"
-    },
+  "name": "Sonic Frontiers Wallpaper",
+  "description": "Fondo de pantalla de la franquicia © Sonic the Hedgehog que cambia entre el modo claro y oscuro de opera. Respectivos créditos a todos los autores",
+  "developer": {
+    "name": "CeroKashy",
+    "url": "https://github.com/CesarEduL/OperaGX-Sonic-Frontiers-Mod/tree/main"
+  },
+  "icons": {
+    "512": "sonicico_512.png"
+  },
+
+  "manifest_version": 3,
+
+  "mod": {
     
-    "manifest_version": 3,
-    
-    "mod":
-    {
-        "license": "license.txt",
-        "schema_version": 1,
-        "payload":
-        {
-            "wallpaper":
+    "license": "license.txt",
+
+    "payload": {
+      "wallpaper": {
+        "dark": {
+          "image": "wallpaper/SonicFrontiers.webm",
+          "text_color": "#FFFFFF",
+          "text_shadow": "#757575",
+          "first_frame": "wallpaper/Sonic.jpg"
+        },
+        "light": {
+          "image": "wallpaper/SonicFrontiersDay.webm",
+          "text_color": "#FFFFFF",
+          "text_shadow": "#0B000E",
+          "first_frame": "wallpaper/SonicFrontiersDay.jpg"
+        }
+      },
+
+      "theme":
             {
                 "dark":
-                {   
-                    "image": "wallpaper/SonicFrontiers.webm",
-                    "text_color": "#FFFFFF",
-                    "text_shadow": "#757575",
-                    "first_frame": "wallpaper/Sonic.jpg"
+                {
+                    "gx_accent":
+                    {
+                        "h": 0,
+                        "s": 100,
+                        "l": 40
+                    },
+                    "gx_secondary_base":
+                    {
+                        "h": 239,
+                        "s": 67,
+                        "l": 45
+                    }
                 },
                 "light":
                 {
-                    "image": "wallpaper/SonicFrontiersDay.webm",
-                    "text_color": "#FFFFFF",
-                    "text_shadow": "#0B000E",
-                    "first_frame": "wallpaper/SonicFrontiersDay.jpg"
+                    "gx_accent":
+                    {
+                        "h": 244,
+                        "s": 36,
+                        "l": 16
+                    },
+                    "gx_secondary_base":
+                    {
+                        "h": 51,
+                        "s": 80,
+                        "l": 88
+                    }
                 }
             }
-        }
     },
-	
-    "version": "1.0"
+    "schema_version": 1
+  },
+
+  "version": "1.0"
 }
