@@ -19,3 +19,11 @@ Primero, clona o descarga el repositorio. Luego use la opción "cargar descompri
 ## Créditos
 
 Utilicé el OST que encontré en el canal de [RetrOfir's Music](https://www.youtube.com/watch?v=3LBW2Wwjiz8).
+
+## Créditos
+
+Paleta de colores:
+- #CC0000
+- #2628C0
+- #1C1A37
+- #F9F2C8
