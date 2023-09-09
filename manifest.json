@@ -1,6 +1,6 @@
 {
-  "name": "Sonic Frontiers Wallpaper",
-  "description": "Fondo de pantalla de la franquicia © Sonic the Hedgehog que cambia entre el modo claro y oscuro de opera. Respectivos créditos a todos los autores",
+  "name": "Sonic Frontiers Mod",
+  "description": "Música y fondo de pantalla de la franquicia © Sonic the Hedgehog que cambia entre el modo claro y oscuro de opera. Respectivos créditos a todos los autores",
   "developer": {
     "name": "CeroKashy",
     "url": "https://github.com/CesarEduL/OperaGX-Sonic-Frontiers-Mod/tree/main"
@@ -16,6 +16,12 @@
     "license": "license.txt",
 
     "payload": {
+      "background_music": [
+        "music/Sonic Frontiers - Theme of Starfall Islands (LoFi Hip Hop Remix).mp3",
+        "music/FADED-HILLS-_Sonic-Forces_-_-Lofi-Music-Box-Remix(Dream-Kittu).mp3",
+        "music/Sonic-Frontiers-OST-Big-the-Cat-Lo-Fi.mp3"
+      ],
+
       "wallpaper": {
         "dark": {
           "image": "wallpaper/SonicFrontiers.webm",
@@ -68,5 +74,5 @@
     "schema_version": 1
   },
 
-  "version": "1.0"
+  "version": "1.5.1"
 }
