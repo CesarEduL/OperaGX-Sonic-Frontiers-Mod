@@ -16,9 +16,9 @@
 
     "payload": {
       "background_music": [
+        "music/Sonic-Frontiers-OST-Big-the-Cat-Lo-Fi.mp3",
         "music/Sonic Frontiers - Theme of Starfall Islands (LoFi Hip Hop Remix).mp3",
-        "music/FADED-HILLS-_Sonic-Forces_-_-Lofi-Music-Box-Remix(Dream-Kittu).mp3",
-        "music/Sonic-Frontiers-OST-Big-the-Cat-Lo-Fi.mp3"
+        "music/FADED-HILLS-_Sonic-Forces_-_-Lofi-Music-Box-Remix(Dream-Kittu).mp3"
       ],
 
       "wallpaper": {
@@ -66,5 +66,5 @@
     "schema_version": 1
   },
 
-  "version": "1.5.1"
+  "version": "1.5.3"
 }
