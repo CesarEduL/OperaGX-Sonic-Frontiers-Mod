@@ -1,6 +1,6 @@
 # Sonic Frontiers Mod
 
-![SonicImage](/images/Sonic.png "Sonic Frontiers chill")
+![SonicImage](https://github.com/CesarEduL/OperaGX-Sonic-Frontiers-Mod/blob/main/Images/Sonic.png "Sonic Frontiers chill")
 
 Mod de Opera GX con fondos y OST de la franquicia Sonic the Hedgehog. Contiene una vibra y música acogedora al mismo tiempo que disfrutas tu tiempo navegando por el internet, este es un proyecto de pruebas hecho por un fan para fans, espero les guste.
 
@@ -14,6 +14,7 @@ Primero, clona o descarga el repositorio. Luego use la opción "cargar descompri
 
 - Agrega dos wallpapers tanto para el modo light y dark de opera
 - Agrega música de fondo para disfrutar mientras navegas
+
 
 ## Créditos
 
